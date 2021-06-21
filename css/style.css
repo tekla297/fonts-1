@@ -1,0 +1,44 @@
+/* .text-block */
+.text-block{
+    width: 926px;
+    font-size: 16px;
+    display: inline-block;
+    color: #000000;
+}
+.text-one{
+    font-family: "Arial GEO Italic", sans-serif;
+    padding-bottom: 20px;
+}
+.text-two{
+    font-family: 'BPG Nino Mtavruli';
+    margin-bottom: 269px;
+}
+.text-tree{
+    font-family: 'Viaoda Libre', cursive;
+    padding-bottom: 20px;
+    font-weight: bolder;
+
+}
+.text-four{
+    font-family: 'Roboto Mono';
+    margin-bottom: 200px;
+}
+.img-block{
+    width: 271px;
+    height: 211px;
+    display: inline-block;
+    vertical-align: top;
+    padding-right: 38px;
+    margin-left: 43px;
+    
+}
+
+h3{
+    font-size: 20px;
+    font-family: 'BPG Nino Mtavruli';
+    margin-bottom: 19px;
+    margin-top: 55px;
+    margin-left: 43px;
+}
+
+
